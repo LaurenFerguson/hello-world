@@ -1,4 +1,6 @@
 # hello-world
-Loz's first repository 
 
-First read me file. Blog name everybreathyoutake.me
+First ReadME file; 
+
+Blog name www.everybreathyoutake.me
+Brief: Blog documenting research findings and other content related to sustainable cities/living/communities. 
